@@ -13,6 +13,7 @@
 | [ToDo List](https://github.com/zahand0/ToDoList)                       |     **#room** **#offline-first** #coroutines #mvvm #moshi #dagger2 #retrofit2 #junit4           | Application for task tracking.
 |   [Snake Game](https://github.com/zahand0/SnakeGame)                        |     #coroutines #onesignal #firebase-analytics #appsflyer **#jetpack-compose** #dagger-hilt #accompanist #compose-navigation           | Simple snake game on Jetpack Compose.
 |   [Weather App](https://github.com/zahand0/WeatherApp)              |     #coroutines #mvvm #clean-architecture #moshi **#retrofit2** #play-services-location **#jetpack-compose** #dagger-hilt #accompanist           | Shows weather in your location using api.open-meteo.com API.    
+|   [End Of THE WORLD](https://github.com/zahand0/EndOfTHEWORLD)              |     **#game** #preferences **#jetpack-compose** #dagger-hilt #accompanist #compose-navigation           | Turn-based action game in JoJo's Bizzare Adventures universe.    
 |   [Fullmetal Alchemist App](https://github.com/zahand0/FullmetalAlchemistApp)                        |     **#room** #serialization #palette #mvvm **#clean-architecture** #junit **#retrofit2** **#coil** **#jetpack-compose** **#dagger-hilt** **#paging3** #accompanist #datastore-preferences           | Work in progress...
 <br/>
 
